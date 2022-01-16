@@ -1,3 +1,3 @@
 ## DevNcore
 
-> DevNcore 홈페이지 입니다.
+> DevNcore 오픈소스입니다.
