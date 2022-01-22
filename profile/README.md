@@ -1,3 +1,3 @@
 # Welcome DevNcore :)
 
-> DevNcore 오픈소스입니다.
+> DevNcore.org에 오신 것을 환영합니다.
